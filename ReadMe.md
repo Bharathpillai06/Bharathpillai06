@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathpillai06&theme=dracula&hide_border=false&include_all_commits=false&layout=compact)
 
 ## 🎧 Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lljmnhlpi7wgq74bc6ia25co5y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lljmnhlpi7wgq74bc6ia25co5y&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lljmnhlpi7wgq74bc6ia25co5y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/Bharathpillai06/Bharathpillai06/blob/output/github-contribution-grid-snake.svg)
